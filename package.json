@@ -1,0 +1,16 @@
+{
+  "name": "bin",
+  "version": "0.0.1",
+  "description": "bin dependency",
+  "author": "",
+  "dependencies": {
+    "async": "^0.9.0",
+    "node-weibo-twitter": "0.0.1",
+    "request": "~2.34.0",
+    "underscore": "~1.6.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
+
